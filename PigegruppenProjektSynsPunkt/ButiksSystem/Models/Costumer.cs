@@ -8,5 +8,6 @@ namespace ButiksSystem.Models
 {
     internal class Costumer
     {
+        public int CostumerID { get; set; }
     }
 }
