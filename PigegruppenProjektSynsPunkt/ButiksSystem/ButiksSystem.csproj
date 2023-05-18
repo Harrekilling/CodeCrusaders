@@ -69,6 +69,7 @@
       <DependentUpon>CreateProductForm.cs</DependentUpon>
     </Compile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <Compile Include="UI\EditCostumerSearch.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -85,10 +86,13 @@
 =======
     <Compile Include="UI\ShowSales.cs">
 >>>>>>> origin/master
+=======
+    <Compile Include="UI\ProductView.cs">
+>>>>>>> parent of 7e84924 (Created winform for salesstatistics)
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\ShowSales.Designer.cs">
-      <DependentUpon>ShowSales.cs</DependentUpon>
+    <Compile Include="UI\ProductView.Designer.cs">
+      <DependentUpon>ProductView.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -109,6 +113,7 @@
       <DependentUpon>CreateProductForm.cs</DependentUpon>
     </EmbeddedResource>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <EmbeddedResource Include="UI\EditCostumerSearch.resx">
       <DependentUpon>EditCostumerSearch.cs</DependentUpon>
     </EmbeddedResource>
@@ -121,6 +126,10 @@
     <EmbeddedResource Include="UI\ShowSales.resx">
       <DependentUpon>ShowSales.cs</DependentUpon>
 >>>>>>> origin/master
+=======
+    <EmbeddedResource Include="UI\ProductView.resx">
+      <DependentUpon>ProductView.cs</DependentUpon>
+>>>>>>> parent of 7e84924 (Created winform for salesstatistics)
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
