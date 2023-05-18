@@ -68,6 +68,18 @@
     <Compile Include="UI\CreateProductForm.Designer.cs">
       <DependentUpon>CreateProductForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="UI\EditCostumerSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EditCostumerSearch.Designer.cs">
+      <DependentUpon>EditCostumerSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\EditProductSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\EditProductSearch.Designer.cs">
+      <DependentUpon>EditProductSearch.cs</DependentUpon>
+    </Compile>
     <Compile Include="UI\ProductView.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -91,6 +103,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\CreateProductForm.resx">
       <DependentUpon>CreateProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EditCostumerSearch.resx">
+      <DependentUpon>EditCostumerSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\EditProductSearch.resx">
+      <DependentUpon>EditProductSearch.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UI\ProductView.resx">
       <DependentUpon>ProductView.cs</DependentUpon>
