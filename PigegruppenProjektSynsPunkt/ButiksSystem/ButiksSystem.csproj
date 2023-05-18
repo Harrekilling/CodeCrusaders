@@ -68,6 +68,7 @@
     <Compile Include="UI\CreateProductForm.Designer.cs">
       <DependentUpon>CreateProductForm.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="UI\EditCostumerSearch.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -81,10 +82,13 @@
       <DependentUpon>EditProductSearch.cs</DependentUpon>
     </Compile>
     <Compile Include="UI\ProductView.cs">
+=======
+    <Compile Include="UI\ShowSales.cs">
+>>>>>>> origin/master
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\ProductView.Designer.cs">
-      <DependentUpon>ProductView.cs</DependentUpon>
+    <Compile Include="UI\ShowSales.Designer.cs">
+      <DependentUpon>ShowSales.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -104,6 +108,7 @@
     <EmbeddedResource Include="UI\CreateProductForm.resx">
       <DependentUpon>CreateProductForm.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="UI\EditCostumerSearch.resx">
       <DependentUpon>EditCostumerSearch.cs</DependentUpon>
     </EmbeddedResource>
@@ -112,6 +117,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UI\ProductView.resx">
       <DependentUpon>ProductView.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="UI\ShowSales.resx">
+      <DependentUpon>ShowSales.cs</DependentUpon>
+>>>>>>> origin/master
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

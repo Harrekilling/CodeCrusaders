@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace ButiksSystem.UI
 {
-    public partial class ProductView : Form
+    public partial class ShowSales : Form
     {
-        public ProductView()
+        public ShowSales()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
         }
     }
 }
